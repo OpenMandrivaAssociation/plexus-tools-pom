@@ -8,7 +8,7 @@ Summary:        Plexus Tools POM
 BuildArch:      noarch
 
 License:        ASL 2.0
-URL:            http://plexus.codehaus.org/%{short_name}
+URL:            https://plexus.codehaus.org/%{short_name}
 Source0:        http://repo.maven.apache.org/maven2/org/codehaus/plexus/%{short_name}/%{version}/%{short_name}-%{version}.pom
 Source1:        http://www.apache.org/licenses/LICENSE-2.0.txt
 
